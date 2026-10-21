@@ -1,0 +1,182 @@
+{
+  "id": "137024523",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Менеджер по юридическим услугам",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "95",
+    "name": "Тюмень",
+    "url": "https://api.hh.ru/areas/95"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": {
+    "name": null,
+    "phones": []
+  },
+  "description": "Погрузитесь в динамичную и ответственную роль юриста консультанта, где ваша экспертиза поможет клиентам принимать важные решения и заключать договоры.<br /><br /><strong>Обязанности</strong> <ul> <li>Консультирование клиентов по юридическим вопросам</li> <li>Сопровождение клиентов до заключения договора</li> <li>Анализ </li> <li>Обеспечение юридической поддержки сделок</li> <li>Взаимодействие с клиентами для решения возникающих вопросов</li> </ul> <strong>Требования</strong> <ul> <li>Знание гражданского и договорного права</li> <li>Умение четко и понятно излагать юридическую информацию</li> <li>Ответственность и внимательность к деталям</li> <li>Коммуникабельность и умение работать с клиентами</li> <li>Желание развиваться в юридической сфере</li> </ul> <strong>Условия</strong> <ul> <li>График работы 3/1 или 6/1</li> <li>Оплата в виде процента от заключенных договоров</li> <li>Работа в городе Тюмень</li> <li>Официальное оформление не указано</li> </ul>",
+  "inclusiveness_description": null,
+  "inclusiveness_types": [],
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Консультирование по правовым вопросам"
+    },
+    {
+      "name": "Миграционное право"
+    },
+    {
+      "name": "Гражданское право"
+    },
+    {
+      "name": "КонсультантПлюс"
+    },
+    {
+      "name": "Семейное право"
+    },
+    {
+      "name": "Наследственное право"
+    },
+    {
+      "name": "Жилищное право"
+    },
+    {
+      "name": "Патентное право"
+    },
+    {
+      "name": "Досудебное урегулирование споров"
+    }
+  ],
+  "auto_response": {
+    "accept_auto_response": true
+  },
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "age_restriction": null,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "146",
+      "name": "Юрист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "13012813",
+    "name": "Максимов Александр Геннадьевич",
+    "url": "https://api.hh.ru/employers/13012813",
+    "alternate_url": "https://hh.ru/employer/13012813",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=13012813",
+    "country_id": 1,
+    "accredited_it_employer": false,
+    "trusted": true,
+    "is_identified_by_esia": false,
+    "employer_on_additional_check": false
+  },
+  "published_at": "2026-10-08T11:54:03+0300",
+  "created_at": "2026-10-08T11:54:03+0300",
+  "initial_created_at": "2026-09-06T15:10:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=137024523&tech_source=api",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/137024523?tech_source=api",
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "accept_labor_contract": true,
+  "civil_law_contracts": [
+    {
+      "id": "SELF_EMPLOYED",
+      "name": "с самозанятым"
+    },
+    {
+      "id": "INDIVIDUAL_ENTREPRENEUR",
+      "name": "с ИП"
+    },
+    {
+      "id": "INDIVIDUAL_PERSON",
+      "name": "с физлицом"
+    }
+  ],
+  "internship": true,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "SIX_ON_ONE_OFF",
+      "name": "6/1"
+    },
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    },
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "closed_for_applicants": false
+}

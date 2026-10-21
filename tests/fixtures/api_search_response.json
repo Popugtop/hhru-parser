@@ -1,0 +1,684 @@
+{
+  "items": [
+    {
+      "id": "137024523",
+      "premium": false,
+      "name": "Менеджер по юридическим услугам",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "95",
+        "name": "Тюмень",
+        "url": "https://api.hh.ru/areas/95"
+      },
+      "salary": {
+        "from": 80000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 80000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-10-08T11:54:03+0300",
+      "created_at": "2026-10-08T11:54:03+0300",
+      "archived": false,
+      "show_contacts": true,
+      "closed_for_applicants": false,
+      "extra_labels": [],
+      "labels": [
+        {
+          "id": "vacancy-label-be-first",
+          "text": "Откликнитесь среди первых"
+        }
+      ],
+      "tags": [
+        {
+          "id": "vacancy-serp__vacancy-work-experience-noExperience",
+          "text": "Без опыта",
+          "icon": "BriefcaseOutlinedSize16"
+        }
+      ],
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/137024523?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/137024523?tech_source=api",
+      "relations": [],
+      "employer": {
+        "id": "13012813",
+        "name": "Максимов Александр Геннадьевич",
+        "url": "https://api.hh.ru/employers/13012813",
+        "alternate_url": "https://hh.ru/employer/13012813",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=13012813",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true,
+        "employer_on_additional_check": false
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=137024523&tech_source=api",
+      "snippet": {
+        "requirement": "Знание гражданского и договорного права. Умение четко и понятно излагать юридическую информацию. Ответственность и внимательность к деталям. Коммуникабельность и умение...",
+        "responsibility": "Консультирование клиентов по юридическим вопросам. Сопровождение клиентов до заключения договора. Анализ. Обеспечение юридической поддержки сделок. Взаимодействие с клиентами для решения..."
+      },
+      "contacts": {
+        "name": null,
+        "phones": []
+      },
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "FLEXIBLE",
+          "name": "По договорённости"
+        },
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "SIX_ON_ONE_OFF",
+          "name": "6/1"
+        },
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        },
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "accept_labor_contract": true,
+      "civil_law_contracts": [
+        {
+          "id": "SELF_EMPLOYED",
+          "name": "с самозанятым"
+        },
+        {
+          "id": "INDIVIDUAL_ENTREPRENEUR",
+          "name": "с ИП"
+        },
+        {
+          "id": "INDIVIDUAL_PERSON",
+          "name": "с физлицом"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "146",
+          "name": "Юрист"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "138238935",
+      "premium": false,
+      "name": "Секретарь судебного заседания",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "95",
+        "name": "Тюмень",
+        "url": "https://api.hh.ru/areas/95"
+      },
+      "salary": {
+        "from": 27000,
+        "to": 45000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 27000,
+        "to": 45000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Тюмень",
+        "street": "улица 8 Марта",
+        "building": "1",
+        "lat": 57.154147,
+        "lng": 65.546105,
+        "description": null,
+        "raw": "Тюмень, улица 8 Марта, 1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "11528187"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-10-08T07:03:00+0300",
+      "created_at": "2026-10-08T07:03:00+0300",
+      "archived": false,
+      "show_contacts": true,
+      "closed_for_applicants": false,
+      "extra_labels": [],
+      "labels": [
+        {
+          "id": "vacancy-label-be-first",
+          "text": "Откликнитесь среди первых"
+        }
+      ],
+      "tags": [
+        {
+          "id": "vacancy-serp__vacancy-work-experience-noExperience",
+          "text": "Без опыта",
+          "icon": "BriefcaseOutlinedSize16"
+        }
+      ],
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/138238935?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/138238935?tech_source=api",
+      "relations": [],
+      "employer": {
+        "id": "9112946",
+        "name": "Центральный районный Суд города Тюмени",
+        "url": "https://api.hh.ru/employers/9112946",
+        "alternate_url": "https://hh.ru/employer/9112946",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9112946",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true,
+        "employer_on_additional_check": false
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=138238935&tech_source=api",
+      "snippet": {
+        "requirement": "Требование: Наличие высшего юридического образования (бакалавриат, магистратура, направление юриспруденция) . Претенденты на замещение вышеуказанной должности должны знать и применять на практике...",
+        "responsibility": "Должностные обязанности: ведение протокола судебного заседания, оформление дел, материалов и т.д. -анализировать и обобщать информацию. -разрабатывать план конкретных действий. -"
+      },
+      "contacts": {
+        "name": null,
+        "phones": []
+      },
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "146",
+          "name": "Юрист"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "103020339",
+      "premium": false,
+      "name": "Помощник юриста",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "95",
+        "name": "Тюмень",
+        "url": "https://api.hh.ru/areas/95"
+      },
+      "salary": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2026-10-07T13:32:59+0300",
+      "created_at": "2026-10-07T13:32:59+0300",
+      "archived": false,
+      "show_contacts": false,
+      "closed_for_applicants": false,
+      "extra_labels": [],
+      "labels": [
+        {
+          "id": "vacancy-label-be-first",
+          "text": "Откликнитесь среди первых"
+        }
+      ],
+      "tags": [
+        {
+          "id": "vacancy-serp__vacancy-work-experience-noExperience",
+          "text": "Без опыта",
+          "icon": "BriefcaseOutlinedSize16"
+        }
+      ],
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/103020339?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/103020339?tech_source=api",
+      "relations": [],
+      "employer": {
+        "id": "4138335",
+        "name": "Правовой Информационный Центр",
+        "url": "https://api.hh.ru/employers/4138335",
+        "alternate_url": "https://hh.ru/employer/4138335",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original-round/6621168.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo-round/6621169.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo-round/6621170.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4138335",
+        "country_id": 1,
+        "accredited_it_employer": false,
+        "trusted": true,
+        "employer_on_additional_check": false
+      },
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103020339&tech_source=api",
+      "snippet": {
+        "requirement": "Грамотная устная речь. Владение ПК на уровне пользователя. Логическое мышление. Вежливость, пунктуальность, обучаемость. Рассматриваем кандидатов без опыта работы.",
+        "responsibility": "Консультирование клиентов по телефону по юридическим вопросам. Прием и распределение входящих звонков. Назначение клиенту встречи со специалистом."
+      },
+      "contacts": null,
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "accept_labor_contract": false,
+      "civil_law_contracts": [],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "146",
+          "name": "Юрист"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    }
+  ],
+  "found": 10,
+  "pages": 4,
+  "page": 0,
+  "per_page": 3,
+  "clusters": [
+    {
+      "name": "Регион",
+      "id": "area",
+      "items": [
+        {
+          "name": "Тюмень",
+          "url": "https://api.hh.ru/vacancies?clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&area=95",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "name": "Отрасль компании",
+      "id": "industry",
+      "items": [
+        {
+          "name": "Медицина, фармацевтика, аптеки",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&industry=48",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Опыт работы",
+      "id": "experience",
+      "items": [
+        {
+          "name": "Нет опыта",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&per_page=3&professional_role=146&period=30&experience=noExperience",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Исключение",
+      "id": "label",
+      "items": [
+        {
+          "name": "Без вакансий агентств",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&label=not_from_agency",
+          "count": 10
+        },
+        {
+          "name": "Указан доход",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&label=with_salary",
+          "count": 10
+        },
+        {
+          "name": "Только с адресом",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&label=with_address",
+          "count": 7
+        },
+        {
+          "name": "Трудовой договор",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&label=accept_labor_contract",
+          "count": 3
+        },
+        {
+          "name": "Только вакансии, у которых меньше 10 откликов",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&label=low_performance",
+          "count": 1
+        },
+        {
+          "name": "Стажировка",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&label=internship",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Профессиональная роль",
+      "id": "professional_role",
+      "items": [
+        {
+          "name": "Юрист",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&professional_role=146&period=30",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "name": "Район",
+      "id": "district",
+      "items": [
+        {
+          "name": "Ленинский",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&district=230",
+          "count": 3
+        },
+        {
+          "name": "Центральный",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&district=389",
+          "count": 3
+        },
+        {
+          "name": "Калининский",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&district=61",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Образование",
+      "id": "education",
+      "items": [
+        {
+          "name": "Не требуется или не указано",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&education=not_required_or_not_specified",
+          "count": 5
+        },
+        {
+          "name": "Высшее",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&education=higher",
+          "count": 5
+        },
+        {
+          "name": "Среднее профессиональное",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&education=special_secondary",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "оформление по ГПХ или по совместительству",
+      "id": "accept_temporary",
+      "items": [
+        {
+          "name": "оформление по ГПХ или по совместительству",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&accept_temporary=true",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Тип занятости",
+      "id": "employment_form",
+      "items": [
+        {
+          "name": "Полная занятость",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&experience=noExperience&per_page=3&professional_role=146&period=30&employment_form=FULL",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "График работы",
+      "id": "work_schedule_by_days",
+      "items": [
+        {
+          "name": "5/2",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&work_schedule_by_days=FIVE_ON_TWO_OFF",
+          "count": 10
+        },
+        {
+          "name": "6/1",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&work_schedule_by_days=SIX_ON_ONE_OFF",
+          "count": 1
+        },
+        {
+          "name": "Другое",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&work_schedule_by_days=OTHER",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Рабочие часы в день",
+      "id": "working_hours",
+      "items": [
+        {
+          "name": "8 часов",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&working_hours=HOURS_8",
+          "count": 9
+        },
+        {
+          "name": "По договоренности",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&working_hours=FLEXIBLE",
+          "count": 1
+        },
+        {
+          "name": "Другое",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&working_hours=OTHER",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Формат работы",
+      "id": "work_format",
+      "items": [
+        {
+          "name": "На месте работодателя",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&work_format=ON_SITE",
+          "count": 6
+        },
+        {
+          "name": "Удалённо",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&work_format=REMOTE",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Частота выплат",
+      "id": "salary_frequency",
+      "items": [
+        {
+          "name": "Два раза в месяц",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&salary_frequency=TWICE_PER_MONTH",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Категория прав",
+      "id": "driver_license_types",
+      "items": [
+        {
+          "name": "A",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&driver_license_types=A",
+          "count": 0
+        },
+        {
+          "name": "B",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&driver_license_types=B",
+          "count": 0
+        },
+        {
+          "name": "C",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&driver_license_types=C",
+          "count": 0
+        },
+        {
+          "name": "D",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&driver_license_types=D",
+          "count": 0
+        },
+        {
+          "name": "E",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&driver_license_types=E",
+          "count": 0
+        },
+        {
+          "name": "BE",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&driver_license_types=BE",
+          "count": 0
+        },
+        {
+          "name": "CE",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&driver_license_types=CE",
+          "count": 0
+        },
+        {
+          "name": "DE",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&driver_license_types=DE",
+          "count": 0
+        },
+        {
+          "name": "TM",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&driver_license_types=TM",
+          "count": 0
+        },
+        {
+          "name": "TB",
+          "url": "https://api.hh.ru/vacancies?area=95&clusters=true&employment_form=FULL&experience=noExperience&per_page=3&professional_role=146&period=30&driver_license_types=TB",
+          "count": 0
+        }
+      ]
+    }
+  ],
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?area=95&clusters=true&employment_form=FULL&enable_snippets=true&experience=noExperience&items_on_page=3&professional_role=146&search_period=30"
+}
